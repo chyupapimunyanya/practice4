@@ -3,12 +3,12 @@ fun main(args: Array<String>) {
     fun printFullName(firstName : String, lastName : String){
         println(firstName + " " + lastName)
     }
-    printFullName("Алексей", "Гниловский")
+    printFullName("Андрей", "Быкадоров")
 //------------------------------
 
 //Задача 2
-    val firstName = "Алексей"
-    val lastName = "Гниловский"
+    val firstName = "Андрей"
+    val lastName = "Быкадоров"
     printFullName(firstName, lastName)
 //----------------------------
 
